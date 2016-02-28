@@ -7,7 +7,7 @@ A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.x.
 
 The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
 
-I have created a simple blog system using cake PHP framework 3.2 version which has Add/edit post by admin and guest users can add thier comments on any post. This will be useful for beginners who wants to learn cakephp framework
+I have created a simple blog system using cake PHP framework 3.2 version which has Add/edit post by admin and guest users can add thier comments on any post. This will be useful for beginners who wants to learn cakephp framework ssh 56d32c3d0c1e66a5c90001c3@
 
 ## Installation and Setup 
 
