@@ -225,9 +225,9 @@ return [
              * the following line and set the port accordingly
              */ 
             //'port' => 'non_standard_port_number',
-            'username' => 'adminl4zy1wf',
-            'password' => 'tPFfa9w2GlAG',
-            'database' => 'blogcake',
+            'username' => 'dbuser',
+            'password' => '123',
+            'database' => 'my_app',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
             'flags' => [],
