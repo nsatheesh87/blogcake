@@ -7,20 +7,28 @@ A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.x.
 
 The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
 
-## Installation
+I have created a simple blog system using cake PHP framework 3.2 version which has Add/edit post by admin and guest users can add thier comments on any post. This will be useful for beginners who wants to learn cakephp framework
 
-1. Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
-2. Run `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
+## Installation and Setup 
 
-If Composer is installed globally, run
-```bash
-composer create-project --prefer-dist cakephp/app [app_name]
-```
+Step 1: 
 
-You should now be able to visit the path to where you installed the app and see
-the setup traffic lights.
+  Git clone by running following command 
+
+   git clone https://nsatheesh87@bitbucket.org/nsatheesh87/blogcake.git
+
+Step 2: Run composer update
+
+Step 3: 
 
 ## Configuration
 
 Read and edit `config/app.php` and setup the 'Datasources' and any other
 configuration relevant for your application.
+
+Step 4: Run the Migration
+
+ bin/cake migrations migrate
+
+Step 5: Done! Your blog is Ready
+
